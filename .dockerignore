@@ -1,0 +1,9 @@
+.git
+.gitignore
+.vscode
+build
+.gradle
+bin
+*.iml
+*.log
+**/.DS_Store
